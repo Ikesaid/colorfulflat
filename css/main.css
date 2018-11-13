@@ -1,0 +1,17 @@
+#box{
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+img#one, img#two{
+	display: inline-block;
+
+}
+
+div.psd h2,p,button{
+	display: inline-block;
+}
+#purple{
+	background-color: purple;
+}
